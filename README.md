@@ -34,10 +34,12 @@ Digital-Water-Level-Display-V2/
 ## Requirements
 
 ### Software
+
 - **Proteus Design Suite** (8.x or higher recommended) - for viewing and editing the circuit design
   - Includes ISIS (schematic capture) and ARES (PCB design) modules
 
 ### Hardware (For Implementation)
+
 - Microcontroller/MCU (specifications depend on design)
 - Water level sensor
 - Digital display module (LCD/LED/7-segment)
@@ -72,12 +74,14 @@ Based on a standard digital water level display project, the circuit likely incl
 ## Usage
 
 ### For Simulation
+
 1. Load the project in Proteus
 2. Set input signals (simulated water level data)
 3. Run the simulation to observe output
 4. Verify correct operation
 
 ### For Physical Implementation
+
 1. Use ARES (PCB design module) to create PCB layout from the schematic
 2. Generate manufacturing files (Gerber files)
 3. Manufacture PCB
@@ -110,4 +114,4 @@ For questions about this project, please refer to the project documentation or c
 
 ---
 
-*Last Updated: February 2026*
+_Last Updated: February 2026_
