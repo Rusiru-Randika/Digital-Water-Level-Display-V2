@@ -4,7 +4,7 @@ A digital water level monitoring and display system designed to measure and visu
 
 ## Circuit Design
 
-![Digital Water Level Display V2 Circuit](Digital%20Water%20Level%20Display%20V2.PNG)
+![Digital Water Level Display V2 Circuit](Digital%20Water%20Level%20Display%20V2.png)
 
 ## Overview
 
